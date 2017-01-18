@@ -1,0 +1,3 @@
+worktest_homepage:
+    path:     /
+    defaults: { _controller: WorktestBundle:Default:index }
